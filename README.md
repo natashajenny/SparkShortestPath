@@ -5,8 +5,7 @@ Spark Implementation of Shortest Path Algorithm
 * The minimum weight of an edge between two individual nodes is 1.
 * The output is sorted (ascending) by length of shortest path and written to a txt file
 
-![alt text](https://github.com/natashajenny/SparkShortestPath/Weighted-Graph.png)
-
+<p align="center"><img src="https://github.com/natashajenny/SparkShortestPath/blob/master/Weighted-Graph.png" width="40%"></p>
 
 ## Input format
 The input represents a connected directed graph.
